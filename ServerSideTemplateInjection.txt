@@ -7,3 +7,11 @@ In my CTF I detect the template engine jinja2 for that to create payload and to 
 https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
 
 YT vide to understand this vulnerability better:https://www.youtube.com/watch?v=SN6EVIG4c-0
+
+
+Steps:
+
+1. Detect which template engine has been used
+2. understand how that template engine
+3. create payload for that template engine to retrive our information.
+4. Execute it.
