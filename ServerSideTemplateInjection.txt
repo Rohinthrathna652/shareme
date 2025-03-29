@@ -1,0 +1,9 @@
+Server side template Injection:
+
+To learn what it is how to exploit it use the following links
+To read the research and detail explaination: https://portswigger.net/research/server-side-template-injection
+
+In my CTF I detect the template engine jinja2 for that to create payload and to understand that, I used this:
+https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
+
+YT vide to understand this vulnerability better:https://www.youtube.com/watch?v=SN6EVIG4c-0
