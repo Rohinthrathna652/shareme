@@ -1,0 +1,5 @@
+Learn about Injection attacks and it's type
+
+resource: https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/injection-attack/
+
+
