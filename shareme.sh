@@ -1,5 +1,7 @@
 #!/bin/bash
+#
 git add .
-git commit -m "$HOME:shared a file"
+read varname
+git commit -m "$varname:shared a file"
 git push
 
